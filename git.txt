@@ -1,0 +1,17 @@
+git config user.name - конфигурация имени (подпись)
+git config user.email - конфигурация мейла (подпись)
+
+git remote add origin [repo url] - подключение к репозиторию
+git remote -v - проверка поключение к репо
+git clone [repo url] - клонирования репо на локаль
+
+
+git add - Добавления в стейджинг для коммита
+git commit - коммит
+
+git fetch - хранениен перед мерджем в локаль
+git merge - мердж в локаль
+
+git pull - fetch + merge
+
+git remove - брейк коннект с текущем репо
